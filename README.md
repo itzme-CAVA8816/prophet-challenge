@@ -21,8 +21,7 @@ forecasting_net_prophet.jbynb
 ### Installing
 
 The repo is public and can be cloned at:
-#### 
-
+#### (https://github.com/itzme-CAVA8816/prophet-challenge)
 ## Testing
 
 Requirements
