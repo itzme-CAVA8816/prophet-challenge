@@ -1,4 +1,4 @@
-# Data Sourcing Challenge
+# Prophet Data Sourcing Challenge
 
 The goal of the project was to analyze MercadoLibre's'financial and user data in clever ways to make the company grow, by finding out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
